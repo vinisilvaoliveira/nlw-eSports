@@ -1,10 +1,11 @@
-1 - Aula
-    NODE: (configuração de ambiente)
-        npm init -y (iniciar aplicação node)
-        npm install express (coisas comuns - rotas)
-        npm install typescript
-        npm install ts-node-dev -D (restart automatico )
-        HOPPSCOT -> gratuito igual postman, insominia
+1 - AULA 1
+    NODE: (configuração de ambiente) 
+        -npm init -y (iniciar aplicação node) 
+        -npm install express (coisas comuns - rotas) 
+        -npm install typescript 
+        -npm install ts-node-dev -D (restart automatico ) 
+        -HOPPSCOT -> gratuito igual postman, insominia
+
 
     React: (configuração de ambiente)
         -Vitejs = https://vitejs.dev/
