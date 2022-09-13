@@ -1,0 +1,8 @@
+# Ignore a pasta node_modules
+/mobile/node_modules
+
+# Ignore a pasta node_modules
+/web/node_modules
+
+# Ignore a pasta node_modules
+/server/node_modules
